@@ -1,2 +1,2 @@
 # web3-solana
-First smartcontract, mint token transaction , solana JSDK for airDrop
+First smart-contract, mint token transaction , solana JSDK for air drop.
